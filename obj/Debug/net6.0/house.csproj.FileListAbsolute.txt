@@ -1,0 +1,15 @@
+D:\Bai tap\C#\house\obj\Debug\net6.0\house.csproj.AssemblyReference.cache
+D:\Bai tap\C#\house\obj\Debug\net6.0\house.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai tap\C#\house\obj\Debug\net6.0\house.AssemblyInfoInputs.cache
+D:\Bai tap\C#\house\obj\Debug\net6.0\house.AssemblyInfo.cs
+D:\Bai tap\C#\house\obj\Debug\net6.0\house.csproj.CoreCompileInputs.cache
+D:\Bai tap\C#\house\bin\Debug\net6.0\house.exe
+D:\Bai tap\C#\house\bin\Debug\net6.0\house.deps.json
+D:\Bai tap\C#\house\bin\Debug\net6.0\house.runtimeconfig.json
+D:\Bai tap\C#\house\bin\Debug\net6.0\house.dll
+D:\Bai tap\C#\house\bin\Debug\net6.0\house.pdb
+D:\Bai tap\C#\house\obj\Debug\net6.0\house.dll
+D:\Bai tap\C#\house\obj\Debug\net6.0\refint\house.dll
+D:\Bai tap\C#\house\obj\Debug\net6.0\house.pdb
+D:\Bai tap\C#\house\obj\Debug\net6.0\house.genruntimeconfig.cache
+D:\Bai tap\C#\house\obj\Debug\net6.0\ref\house.dll
